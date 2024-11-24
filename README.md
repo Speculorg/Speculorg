@@ -1,45 +1,60 @@
-# Speculorg
+# **Speculorg**
 
-**Speculorg** is a non-commercial initiative dedicated to advancing education and research in algorithmic trading, financial market automation, and market analysis. Our mission is to build a collaborative space where knowledge and tools are shared openly to help users explore and better understand financial markets. Speculorg is a community-driven, open-source project that thrives on contributions from like-minded individuals.
+**Speculorg** is a nonprofit initiative aimed at advancing education and research in algorithmic trading, trade automation, and financial market analysis.
+
+**Our Mission**: Create a space for open knowledge exchange and tools that help users better understand the complex world of finance, effectively use trading algorithms, and implement modern data analysis techniques.
+
+---
 
 ## 🌐 Specul.org Platform
 
-The [**Specul.org**](https://specul.org) platform serves as the central hub for accessing:
-- **Educational Materials**: Articles, tutorials, and guides on financial markets and trading strategies.
-- **Market News**: Updates and insights on market trends and algorithmic trading.
-- **Development Blogs**: Updates on the progress of Speculorg projects and technical discussions.
-- **Library of Terms**: A structured glossary of key concepts in algorithmic trading and financial markets.
+[**Specul.org**](https://specul.org) serves as the central hub for the initiative, providing access to the following resources:
+- `Market News`: Analytics and updates on trends and algorithmic trading.
+- `Educational Materials`: Articles, guides, tutorials, and courses on financial markets and trading strategies.
+- `Library of Terms`: A structured glossary of key concepts in algorithmic trading and financial markets.
+- `Speculorg Projects`: Documentation and files of Speculorg's open-source projects (CMS, Terminal, AI).
+- `Development Blogs`: Updates on project progress and discussions of technical solutions.
 
-Specul.org is the manifestation of Speculorg’s vision, providing resources and tools for community members to learn, share, and innovate.
+The Specul.org platform embodies the philosophy of Speculorg, uniting developers, researchers, and traders for learning, collaboration, and innovation.
 
-## 📂 Repositories
+---
 
-Speculorg maintains several open-source repositories to support its mission. Key repositories include:
+## 📂 Speculorg Projects
 
-- [**Speculorg/CMS**](https://github.com/Speculorg/CMS): A modular content management system designed for educational platforms, news sites, and online libraries. Features include multilingual support, AI-driven content automation, and a flexible architecture for customization.
-- [**Speculorg/Terminal**](https://github.com/Speculorg/Terminal): A modular trading terminal for algorithmic trading and financial data analysis. It supports multi-exchange integration, automation tools, and AI-powered trading and analytics.
+Speculorg supports several open-source projects:
 
-## 🛠 Our Mission and Goals
+- [**Speculorg/CMS**](https://github.com/Speculorg/CMS): A modular content management system for educational platforms, news sites, and libraries.  
+  **Key Features**: Multilingual support, AI-driven content automation, and flexible architecture.
 
-Speculorg connects developers, researchers, and enthusiasts in a collaborative effort to:
-- **Educate and Innovate**: Expand access to knowledge and tools for algorithmic trading and financial market research.
-- **Support Open Source**: Build and maintain open-source projects that empower the community.
-- **Foster Collaboration**: Create a space where individuals can share knowledge, develop best practices, and advance together.
+- [**Speculorg/Terminal**](https://github.com/Speculorg/Terminal): A trading terminal for algorithmic trading and financial data analysis.  
+  **Key Features**: Multi-exchange integration, trade automation, and analytical tools.
+
+The complete list of documentation is available in the [**Table of Contents**](./Docs/TableOfContents.md "Speculorg Documentation Index").
+
+---
 
 ## 👥 Community Involvement
 
-Speculorg is community-driven and welcomes contributions from developers, researchers, and practitioners. Here's how you can get involved:
-- Submit ideas, issues, or feature requests through our [issue tracker](https://github.com/Speculorg/CMS/issues).
-- Propose changes via [pull requests](https://github.com/Speculorg-Dev).
-- Join discussions and stay updated via our [Telegram news channel](https://t.me/speculorg) and [community chat](https://t.me/speculorg_chat).
+We invite developers, researchers, and enthusiasts to collaborate on Speculorg projects.
 
-## 🔗 Connect with Speculorg
+**Our community goals are:**
+- `Educate and Inspire`: Provide access to knowledge and tools for algorithmic trading and financial market analysis.
+- `Support Open Source`: Develop and maintain open-source projects.
+- `Foster Collaboration`: Create a space for knowledge sharing and collective growth.
 
-- **Website**: [Specul.org](https://specul.org)
-- **Repositories**: [GitHub](https://github.com/Speculorg)
+**How to Join Speculorg:**
+- Submit ideas or propose changes:
+  - 👉🏻 [https://github.com/Speculorg/CMS/issues](https://github.com/Speculorg/CMS/issues)
 
-We believe in the power of collaboration and open-source principles to advance knowledge and innovation.
+- Contribute to the codebase:
+  - 👉🏻 [https://github.com/Speculorg-Dev](https://github.com/Speculorg-Dev)
+
+- Engage in discussions and stay updated:
+  - 👉🏻 Channel [https://t.me/speculorg](https://t.me/speculorg)
+  - 👉🏻 Chat [https://t.me/speculorg_chat](https://t.me/speculorg_chat)
+
+---
 
 ## 📈 Tags
 
-`#Speculorg` `#OpenSource` `Trading` `#CMS` `#AI` `#TradingTerminal` `#FinancialMarkets` `#Education` `#Research`
+`#Speculorg` `#OpenSource` `#AlgorithmicTrading` `#CMS` `#AI` `#TradingTerminal` `#FinancialMarkets` `#Education` `#Research`
