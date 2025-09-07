@@ -1,6 +1,6 @@
 # **Speculorg**
 
-**Speculorg** is a nonprofit initiative aimed at advancing education and research in algorithmic trading, trade automation, and financial market analysis.
+**Speculorg** is a open initiative aimed at advancing education and research in algorithmic trading, trade automation, and financial market analysis.
 
 **Our Mission**: Create a space for open knowledge exchange and tools that help users better understand the complex world of finance, effectively use trading algorithms, and implement modern data analysis techniques.
 
